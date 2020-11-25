@@ -1,6 +1,8 @@
 # flutter_one_time_intro
 
-A new Flutter project.
+A sample flutter intro or splash or getting started page for one time run in installation.
+
+<img src="sample_gif/sample.gif" width="400" height="650">
 
 ## Getting Started
 
